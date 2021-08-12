@@ -1,0 +1,21 @@
+{
+  "PhysicsSectionTitle": "=== Gameplay Settings ===",
+  "SaturationCostPerYeetDescription": "The amount of satiety lost when yeeting. [Default: 20, Minimum: 0]",
+  "SaturationCostPerYeet": 20.0,
+  "YeetForceDescription": "The force of the yeet. [Default: 0.85, Minimum: 0.5, Maximum: none (but it gets crazy quickly...)]",
+  "YeetForce": 0.85,
+  "EnableMouseCursorItemYeetDescription": "Whether the yeet action works for items held in the mouse slot. [Default: True]",
+  "EnableMouseCursorItemYeet": true,
+  "AudioSectionTitle": "=== Audio Settings ===",
+  "WooshVolumeDescription": "Volume of the 'woosh' noise when an item is yeeted. [Default: 10, Minimum: 1, Maximum: 20]",
+  "WooshVolume": 10.0,
+  "WooshAudibleRangeDescription": "Furthest distance at which the 'woosh' noise can be heard. [Default: 15, Minimum: 1, Maximum: 50]",
+  "WooshAudibleRange": 15.0,
+  "GruntVolumeDescription": "Volume of the player's grunting when yeeting. [Default: 15, Minimum: 1, Maximum: 25]",
+  "GruntVolume": 15.0,
+  "GruntAudibleRangeDescription": "Furthest distance at which the grunting of a yeeting player can be heard. [Default: 50, Minimum: 1, Maximum: 100]",
+  "GruntAudibleRange": 50.0,
+  "VideoSectionTitle": "=== Video Settings ===",
+  "ScreenShakeIntensityDescription": "How much the screen shakes when you yeet. [Default: 0.5, Minimum: 0, Maximum: 1, Reference: throwing a spear is 0.25]",
+  "ScreenShakeIntensity": 0.5
+}

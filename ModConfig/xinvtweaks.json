@@ -1,0 +1,20 @@
+{
+  "delay": 200,
+  "tools": true,
+  "groundStorage": true,
+  "seeds": true,
+  "blocks": true,
+  "stairs": true,
+  "BulkQuanties": {
+    "firewood": 8,
+    "charcoal": 2,
+    "ingot-*": 4,
+    "plank-*": 4,
+    "metalplate-*": 4,
+    "peatbrick": 4,
+    "burnedbrick-*": 4,
+    "rawbrick-*": 4,
+    "stonebrick-*": 4,
+    "refractorybrick-*-*": 4
+  }
+}

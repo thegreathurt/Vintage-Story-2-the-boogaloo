@@ -1,0 +1,14 @@
+{
+  "RestrictPathfinding": false,
+  "PathRange": 48.0,
+  "PathItemRange": 10.0,
+  "PoopEnabled": true,
+  "UnloadedHungerEnabled": true,
+  "ShearingEnabled": true,
+  "LichenEnabled": true,
+  "MedievalExpansionEnabled": true,
+  "PrimitiveSurvivalEnabled": true,
+  "WildFarmingEnabled": true,
+  "PetsEnabled": true,
+  "GluttonyEnabled": true
+}
