@@ -1,0 +1,22 @@
+{
+  "ShepherdsCrookAffectedEntitiesDesc": "The entities affected by the Shepherd's Crook. Tested by checking whether one of the configured values is part of the entity code.",
+  "ShepherdsCrookAffectedEntities": [
+    "bighorn",
+    "pig",
+    "chicken"
+  ],
+  "ShepherdsCrookAngerDurabilityCostDesc": "The durability cost of the anger mode.",
+  "ShepherdsCrookAngerDurabilityCost": 1,
+  "ShepherdsCrookAngerMinGenDesc": "The generation required to use anger mode.",
+  "ShepherdsCrookAngerMinGen": 1,
+  "ShepherdsCrookScareDurabilityCostDesc": "The durability cost of the scare mode.",
+  "ShepherdsCrookScareDurabilityCost": 1,
+  "ShepherdsCrookScareMinGenDesc": "The generation required to use scare mode.",
+  "ShepherdsCrookScareMinGen": 3,
+  "ShepherdsCrookCalmDurabilityCostDesc": "The durability cost of the calm mode.",
+  "ShepherdsCrookCalmDurabilityCost": 1,
+  "ShepherdsCrookCalmMinGenDesc": "The generation required to use calm mode.",
+  "ShepherdsCrookCalmMinGen": 5,
+  "ShepherdsCrookParticlesDesc": "Whether or not to spawn particles on use.",
+  "ShepherdsCrookParticles": false
+}

@@ -1,0 +1,64 @@
+{
+  "CanFired": {
+    "Comment": "Burns in 15 seconds. LET EVERYTHING BURN IN LAVA!",
+    "Default": false,
+    "Val": false
+  },
+  "HasHealth": {
+    "Comment": "Has 100 hp, can be broken by another player",
+    "Default": false,
+    "Val": false
+  },
+  "CreateCorpse": {
+    "Comment": "[true, false]",
+    "Default": true,
+    "Val": true
+  },
+  "SaveInventoryTypes": {
+    "Comment": null,
+    "Default": [
+      "hotbar",
+      "backpack",
+      "craftinggrid",
+      "mouse",
+      "character"
+    ],
+    "Val": [
+      "hotbar",
+      "backpack",
+      "craftinggrid",
+      "mouse",
+      "character"
+    ]
+  },
+  "NeedPrivilegeForReturnThings": {
+    "Comment": "[build, useblock, buildblockseverywhere, useblockseverywhere, attackplayers, attackcreatures, freemove, gamemode, pickingrange, chat, kick, ban, whitelist, setwelcome, announce, readlists, give, areamodify, setspawn, controlserver, tp, time, grantrevoke, root, commandplayer, controlplayergroups, manageplayergroups]",
+    "Default": "gamemode",
+    "Val": "gamemode"
+  },
+  "MaxDeathContentSavedPerPlayer": {
+    "Comment": "[0-100] (0 - disabled, more than 100 - not recommended)",
+    "Default": 10,
+    "Val": 10
+  },
+  "CreateWaypoint": {
+    "Comment": "[auto, always, none], auto - will try to resolve conflicts with other mods",
+    "Default": "auto",
+    "Val": "auto"
+  },
+  "WaypointIcon": {
+    "Comment": "[circle, bee, cave, home, ladder, pick, rocks, ruins, spiral, star1, star2, trader, vessel]",
+    "Default": "bee",
+    "Val": "bee"
+  },
+  "WaypointColor": {
+    "Comment": "https://www.99colors.net/dot-net-colors",
+    "Default": "crimson",
+    "Val": "crimson"
+  },
+  "PinWaypoint": {
+    "Comment": "[true, false]",
+    "Default": true,
+    "Val": true
+  }
+}
